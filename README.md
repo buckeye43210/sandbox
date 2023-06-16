@@ -4,5 +4,8 @@ Playground for testing new things.
 Mermaid Diagram:
  ```mermaid
  graph TD
-   a --> b --> c --> d --> a
+   a --> b
+   b --> c
+   c --> d
+   d --> a
 ```
