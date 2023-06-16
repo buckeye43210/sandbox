@@ -3,7 +3,7 @@ Playground for testing new things.
 
 Mermaid Diagram:
  ```mermaid
- graph TD
+ graph LR
    a --> b
    b --> c
    c --> d
